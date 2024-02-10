@@ -1,0 +1,6 @@
+هم اوامر الgit
+git init
+git add .
+git commit
+git clear
+git status
